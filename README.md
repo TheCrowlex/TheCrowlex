@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCrowlex
 - 👀 I’m interested in games
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on idnk, HTML?
 - 📫 How to reach me . . . please, don't reach me :D
 
